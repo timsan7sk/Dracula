@@ -2,8 +2,9 @@
 
 > A dark theme for [Atom](http://atom.io/), [Alfred](http://www.alfredapp.com/), [Emacs](https://www.gnu.org/software/emacs/), [Highlight.js](https://highlightjs.org/), [Hyper](https://hyper.is/), [iTerm](http://www.iterm2.com/), [JetBrains](https://www.jetbrains.com/), [Pygments](http://pygments.org/), [Slack](http://slack.com), [Sublime Text](http://www.sublimetext.com/3), [TextMate](http://macromates.com/), [Terminal.app](http://www.apple.com/osx/apps), [Vim](http://www.vim.org/), [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Zsh](http://www.zsh.org/), [GKrellM](http://gkrellm.srcbox.net/) and many more.
 
-![GKrellM](./img/GKrellM.gif)
-
+| ![GKrellM](./img/GKrellM.gif) | ![GKrellM](./img/GKrellM_1.gif) |
+|:-----------------------------:|:-------------------------------:|
+| Dark                          | Darker |
 > Based on the [Breeze Theme](https://github.com/phd/breeze-gkrellm-theme)
 
 ## Install
@@ -12,8 +13,10 @@ All instructions can be found at [draculatheme.com/GKrellM](https://draculatheme
 
 
 ## Screenshot
-![Screenshot](./img/Screenshot.png)
 
+| ![Screenshot](./img/Screenshot.png) | ![Screenshot](./img/Screenshot_1.png) |
+|:-----------------------------------:|:-------------------------------------:|
+| Dark                                | Darker |
 ## Links
 
 - [Dracula](https://draculatheme.com/)
